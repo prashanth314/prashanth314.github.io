@@ -8,6 +8,13 @@ body{
 	height:300px;
 }
 
+#basketballImg{
+	display:block;
+	margin:0 auto;
+	width:403px;
+	height:300px;
+}
+
 .hero-image {
   background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./media/prashanthPai.JPG");
   padding-top:1250px;
