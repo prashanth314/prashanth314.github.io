@@ -40,6 +40,52 @@ body{
   height:150px;
 }
 
+#kempnerImg{
+  display:block;
+  margin:0 auto;
+  width:300px;
+  height:300px;
+}
+
+#messengerImg{
+  display:block;
+  margin:0 auto;
+  width:300px;
+  height:300px;
+}
+
+#billImg{
+  display:block;
+  margin:0 auto;
+  margin-top: 52.5px;
+  margin-bottom: 52.5px;
+  width:400px;
+  height:195px;
+}
+
+#backpackImg{
+  display:block;
+  margin:0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width:271px;
+  height:200px;
+}
+
+#nbaImg{
+  display:block;
+  margin:0 auto;
+  width:253px;
+  height:300px;
+}
+
+#wikiImg{
+  display:block;
+  margin:0 auto;
+  width:300px;
+  height:300px;
+}
+
 .hero-image {
   background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./media/prashanthPai.JPG");
   padding-top:1250px;
@@ -68,4 +114,10 @@ body{
   height: 700px;
   background-color: rgb(196,224,229); /* For browsers that do not support gradients */
   background-image: linear-gradient(rgb(196,224,229), rgb(76, 161, 175)); /* Standard syntax (must be last) */
+}
+
+#grad3 {
+  height: 900px;
+  background-color: rgb(76, 161, 175); /* For browsers that do not support gradients */
+  background-image: linear-gradient(rgb(76, 161, 175), rgb(196,224,229)); /* Standard syntax (must be last) */
 }
