@@ -18,22 +18,26 @@ body{
 #riceImg{
   display:block;
   margin:0 auto;
-  width:257px;
-  height:300px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  width:208px;
+  height:250px;
 }
 
 #hcssImg{
   display:block;
   margin:0 auto;
-  width:300px;
+  width:318px;
   height:300px;
 }
 
 #fordImg{
   display:block;
   margin:0 auto;
-  width:363px;
-  height:300px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  width:393px;
+  height:150px;
 }
 
 .hero-image {
@@ -52,4 +56,16 @@ body{
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
+}
+
+#grad1 {
+  height: 600px;
+  background-color: rgb(76, 161, 175); /* For browsers that do not support gradients */
+  background-image: linear-gradient(rgb(76, 161, 175), rgb(196,224,229)); /* Standard syntax (must be last) */
+}
+
+#grad2 {
+  height: 700px;
+  background-color: rgb(196,224,229); /* For browsers that do not support gradients */
+  background-image: linear-gradient(rgb(196,224,229), rgb(76, 161, 175)); /* Standard syntax (must be last) */
 }
