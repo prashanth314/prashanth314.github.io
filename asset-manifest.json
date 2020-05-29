@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.c48f0cd0.chunk.js",
-    "main.js.map": "/static/js/main.c48f0cd0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.90834230.js",
-    "runtime-main.js.map": "/static/js/runtime-main.90834230.js.map",
-    "static/js/2.35ba42ed.chunk.js": "/static/js/2.35ba42ed.chunk.js",
-    "static/js/2.35ba42ed.chunk.js.map": "/static/js/2.35ba42ed.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6c800623579ba57aa41a1cf771d49e79.js": "/precache-manifest.6c800623579ba57aa41a1cf771d49e79.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.35ba42ed.chunk.js.LICENSE.txt": "/static/js/2.35ba42ed.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/prashanth314.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/prashanth314.github.io/static/js/main.ebf4aecf.chunk.js",
+    "main.js.map": "/prashanth314.github.io/static/js/main.ebf4aecf.chunk.js.map",
+    "runtime-main.js": "/prashanth314.github.io/static/js/runtime-main.fb27f5fa.js",
+    "runtime-main.js.map": "/prashanth314.github.io/static/js/runtime-main.fb27f5fa.js.map",
+    "static/js/2.35ba42ed.chunk.js": "/prashanth314.github.io/static/js/2.35ba42ed.chunk.js",
+    "static/js/2.35ba42ed.chunk.js.map": "/prashanth314.github.io/static/js/2.35ba42ed.chunk.js.map",
+    "index.html": "/prashanth314.github.io/index.html",
+    "precache-manifest.86abbe6aba93b007e7648a5a5547cd54.js": "/prashanth314.github.io/precache-manifest.86abbe6aba93b007e7648a5a5547cd54.js",
+    "service-worker.js": "/prashanth314.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/prashanth314.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.35ba42ed.chunk.js.LICENSE.txt": "/prashanth314.github.io/static/js/2.35ba42ed.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/prashanth314.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.90834230.js",
+    "static/js/runtime-main.fb27f5fa.js",
     "static/js/2.35ba42ed.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c48f0cd0.chunk.js"
+    "static/js/main.ebf4aecf.chunk.js"
   ]
 }
